@@ -6,8 +6,8 @@ public class Hangman {
 
     private final Player playerOne;
     private final Player playerTwo;
-    private Player hangingPlayer;
-    private Player guessingPlayer;
+    private final Player hangingPlayer;
+    private final Player guessingPlayer;
 
     private boolean over;
 
@@ -24,8 +24,8 @@ public class Hangman {
         }
     }
 
-    public Player getPlayerOne(){return playerOne; }
-    public Player getPlayerTwo(){return playerTwo; }
+//    public Player getPlayerOne(){return playerOne; }
+//    public Player getPlayerTwo(){return playerTwo; }
 
     public Player getHangingPlayer() {
         return hangingPlayer;
