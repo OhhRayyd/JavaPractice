@@ -95,7 +95,7 @@ public class GameController {
                         }
                     }
                 }
-                //if(wordToDiscover)
+                // end the game immediately after a player incorrectly uses all of their guesses check the while loop
             }
         }
         System.out.println("\n\nGAME OVER");

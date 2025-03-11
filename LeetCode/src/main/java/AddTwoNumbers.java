@@ -1,4 +1,4 @@
-import setup.ListNode;
+import Setup.ListNode;
 
 import java.util.LinkedList;
 

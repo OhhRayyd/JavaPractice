@@ -1,4 +1,4 @@
-package setup;
+package Setup;
 
 public class ListNode {
 

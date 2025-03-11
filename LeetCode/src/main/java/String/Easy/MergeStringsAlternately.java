@@ -1,7 +1,4 @@
-package String;
-
-import java.util.ArrayList;
-import java.util.List;
+package String.Easy;
 
 public class MergeStringsAlternately {
 
